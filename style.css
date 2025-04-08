@@ -1,0 +1,263 @@
+.header{
+    width: 100%;
+    height: 114px;
+    background:#00D2C6;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #ffff;
+    position: fixed;
+    z-index: 1;
+
+}
+body{
+    margin: 0;
+}
+.left-nav{
+    width: 45%;
+    float: left;
+}
+.right-nav-section{
+    width: 55%;
+    float: left;
+    
+}
+.right-nav-items{
+    width: 60%;
+    padding-top: 44px;
+    float: left;
+}
+.products{
+    color: white;
+    text-decoration: none;
+    font-size: 19px;
+    font-family: sans-serif;
+    padding-left: 70px;
+}
+.recipes{
+    color: white;
+    text-decoration: none;
+    font-size: 19px;
+    font-family: sans-serif;
+    padding-left: 32px;
+}
+.stores{
+    color: white;
+    text-decoration: none;
+    font-size: 19px;
+    font-family: sans-serif;
+    padding-left: 32px;
+
+}
+.right-nav-icons{
+    width: 40%;
+    float: left;
+    padding-top: 37px;
+
+}
+.fb{
+    width: 29px;
+    height: 29px;
+    padding-left: 33px;
+}
+.insta{
+    width: 29px;
+    height: 29px;
+}
+.tk{
+    width: 29px;
+    height: 29px;
+}
+.x{
+    width: 29px;
+    height: 29px;
+}
+.yt{
+    width: 29px;
+    height: 29px;
+}
+.pt{
+    width: 29px;
+    height: 29px;
+}
+
+.navlogo{
+    width: 93px;
+    height: 93px;
+    padding-top: 8px;
+    padding-left: 20px;
+}
+.bg-image{
+    width: 100%;
+    padding-top: 112px;
+}
+.text{
+    position: absolute;
+    top: 50%;
+    left: 5%;
+    color: white;
+}
+.font{
+    font-size: 55px;
+    line-height: 74px;
+    margin-bottom: 40px;
+    margin-top: 30px;
+    font-family: sans-serif;
+}
+.border{
+    text-decoration: none;
+    color: #ffff;
+    background: transparent;
+    border: 2px solid white;
+    border-radius: 30px;
+    padding: 10px 43px;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+.bg-image2{
+    width: 100%;
+    margin-top: -4px;
+}
+.image2-center{
+    position: absolute;
+    top: 160%;
+    color: white;
+    width: 100%;
+    text-align: center;
+}
+.image2-text{
+    width: 45%;
+    margin: auto;
+    background-color: rgba(10, 91, 43, 0.8);
+    border-radius: 100px;
+    padding: 10px 0 43px 0;
+}
+.recipes-text{
+    font-size: 36px;
+    font-family: sans-serif;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.recipes-caption{
+    font-family: sans-serif;
+    padding: 6px 25px;
+}
+.button-recipes{
+    background: transparent;
+    border: 2px solid white;
+    border-radius: 30px;
+    padding: 7px 36px;
+    color: white;
+    font-size: 19px;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+.bg-image3{
+    width: 100%;
+    margin-top: -4px;
+}
+.image3-center{
+    position: absolute;
+    top: 260%;
+    color: white;
+    width: 100%;
+    text-align: center;
+}
+.image3-text{
+    width: 45%;
+    margin: auto;
+    background-color: rgba(10, 91, 43, 0.8);
+    border-radius: 100px;
+    padding: 10px 0 43px 0;
+}
+.store-text{
+    font-size: 36px;
+    font-family: sans-serif;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.store-caption{
+    font-family: sans-serif;
+    padding: 6px 25px;
+}
+.button-store{
+    background: transparent;
+    border: 2px solid white;
+    border-radius: 30px;
+    padding: 7px 36px;
+    color: white;
+    font-size: 19px;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+.footer{
+    background-size: cover;
+    position: relative;
+    z-index: 100;
+    background: #3e3e3e;
+    font-family: sans-serif;
+    padding: 10px 15px 48px;
+    font-size: 12px;
+    margin-top: -4px;
+}
+.footer-items{
+    margin: 0 0 12px;
+    list-style: none;
+    text-align: center;
+    
+    
+}
+.poly{
+    color: #ffff;
+    font-family: sans-serif;
+    text-decoration: none;
+    padding: 0 13px;
+}
+.ca{
+    color: #ffff;
+    font-family: sans-serif;
+    text-decoration: none;
+    padding: 0 13px;
+}
+.do{
+    color: #ffff;
+    font-family: sans-serif;
+    text-decoration: none;
+    padding: 0 13px;
+}
+.term{
+    color: #ffff;
+    font-family: sans-serif;
+    text-decoration: none;
+    padding: 0 13px;
+}
+.acc{
+    color: #ffff;
+    font-family: sans-serif;
+    text-decoration: none;
+    padding: 0 13px;
+
+}
+.faq{
+    color: #ffff;
+    font-family: sans-serif;
+    text-decoration: none;
+    padding: 0 13px;
+}
+.con{
+    color: #ffff;
+    font-family: sans-serif;
+    text-decoration: none;
+    padding: 0 13px;
+}
+.careers{
+    color: #ffff;
+    font-family: sans-serif;
+    text-decoration: none;
+    padding: 0 13px;
+}
+.foot-caption{
+    color: #ffff;
+    font-family: sans-serif;
+    text-decoration: none;
+    padding: 15px 13px;
+}
